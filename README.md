@@ -28,6 +28,6 @@
 ---
 
 ## 🚀 About Me
-- 🌱 Studying **Spring Boot**, **Next.js**
+- 🌱 Studying  **TypeScript** **React**, **Next.js**
 - 💻 Interested in **Full Stack Development**
 - 📫 Email: gksrmf9186@naver.com
