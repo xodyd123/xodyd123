@@ -23,11 +23,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![Jeong Tae Yong's GitHub stats](https://github-readme-stats.vercel.app/api?username=xodyd123&show_icons=true&theme=tokyonight)
-
----
-
 ## 🚀 About Me
 - 🌱 Studying  **TypeScript** **React**, **Next.js**
 - 💻 Interested in **Full Stack Development**
